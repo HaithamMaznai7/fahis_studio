@@ -10,6 +10,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  cupertino_icons: ^1.0.8
+  sensors_plus: ^6.0.1
+  camera: ^0.11.0+2
+  file_picker: ^8.1.2
+  smooth_page_indicator: ^1.2.0+3
+  video_player: ^2.9.1
 
 dev_dependencies:
   flutter_test:
@@ -29,8 +35,12 @@ flutter:
       ios:
         pluginClass: FahisStudio
   # To add assets to your package, add an assets section, like this:
-  # assets:
-  #   - images/a_dot_burr.jpeg
+  assets:
+    - assets/
+    - assets/outlines/suv/
+    - assets/outlines/sedan/
+    - assets/outlines/hatchback/
+    - assets/outlines/minivan/
   #   - images/a_dot_ham.jpeg
   #
   # For details regarding assets in packages, see
