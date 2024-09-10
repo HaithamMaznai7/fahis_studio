@@ -25,12 +25,24 @@ and the Flutter guide for
 ![Full tests workflow](https://github.com/rafaelsetragni/awesome_notifications/actions/workflows/dart.yml/badge.svg?branch=master)
 ![codecov badge](https://codecov.io/gh/rafaelsetragni/awesome_notifications/branch/master/graph/badge.svg)
 
-TODO: Put a short description of the package here that helps potential users
-know whether this package might be useful for them.
+Improve your app and platform by preview a professional pictures for your cars, If you looking for a simple and easy package that handle car images picking on car insert stage to your platform you will be happy when using Fahis Studio
+
+<br>
+<br>
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+### **Key Features:**
+
+* **Picking Car Pictures:** Use Awesome Notifications to easily create and customize local and push notifications for your Flutter app.
+* **Validate Picture:** Keep your users engaged with your app by sending notifications with images, sounds, emoticons, buttons, and many different layouts.
+* **Save Car Image without BG:** Receive real-time events on the Flutter level code for notifications that are created, displayed, dismissed, or tapped by the user.
+* **Save Car Image with Custom BG:** Receive real-time events on the Flutter level code for notifications that are created, displayed, dismissed, or tapped by the user.
+* **Know Cars Body Type:** With a range of customizable options, including translations, you can tailor notifications to fit your specific needs.
+* **Get 360 Image for a Car:** Schedule notifications repeatedly or at specific times with second precision to keep your users up-to-date.
+* **Edit Image on Picking time:** Receive notifications with confidence and trust in any application lifecycle.
+<br>
+<br>
 
 ## Getting started
 
